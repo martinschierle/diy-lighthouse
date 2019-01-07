@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 744.09449 1052.3622"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="frontcover.svg"
+   inkscape:export-filename="/Users/ericbidelman/Desktop/lh_logo_icon.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180"
+   width="210mm"
+   height="297mm">
+  <metadata
+     id="metadata85">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>DIY Lighthouse</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview83"
+     showgrid="false"
+     borderlayer="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="50"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.49370068"
+     inkscape:cx="96.860021"
+     inkscape:cy="577.30728"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     units="mm" />
+  <defs
+     id="defs3">
+    <style
+       id="style5">.cls-1,.cls-10{fill:#304ffe;}.cls-2{fill:#ffe082;}.cls-10,.cls-2{opacity:0.5;}.cls-3{fill:#2979ff;}.cls-4{fill:#ffd54f;}.cls-5{fill:#fff176;}.cls-6{fill:#f4511e;}.cls-7{fill:#e64a19;}.cls-8{fill:#c5cae9;}.cls-9{fill:#ff7043;}.cls-11{fill:#fdd835;}.cls-12{fill:#fff9c4;}.cls-13{fill:#448aff;}.cls-14{fill:#00c853;}.cls-15{fill:#64dd17;}</style>
+  </defs>
+  <title
+     id="title7">DIY Lighthouse</title>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="clouds"
+     style="display:inline"
+     transform="translate(-111.06999,598.63219)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="stars"
+     style="display:inline"
+     transform="translate(-111.06999,598.63219)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="light"
+     style="display:inline"
+     transform="translate(-111.06999,598.63219)">
+    <path
+       style="opacity:0.5;fill:#ffe082;stroke-width:0.80517679"
+       class="cls-2"
+       d="m 402.38694,-253.06211 -193.665,-53.53283 a 2.1124776,4.0886142 0 0 0 -0.57876,-0.15683 c -5.01786,0 -9.26018,35.72216 -9.26018,79.69997 0,43.97781 4.24232,79.61036 9.26018,79.61036 a 2.1182652,4.0998158 0 0 0 0.53825,-0.14569 L 402.358,-201.22079 v -51.84139 z"
+       id="path11"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="shade"
+     style="display:inline"
+     transform="translate(0,302.3622)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="GRASS"
+     transform="translate(-111.06999,598.63219)"
+     style="display:inline">
+    <path
+       class="cls-3"
+       d="M 373.38598,53.548795"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:#2979ff;stroke-width:1.83810353" />
+    <rect
+       class="cls-4"
+       x="402.36368"
+       y="-270.34113"
+       width="144.78592"
+       height="155.39197"
+       id="rect15"
+       style="fill:#ffd54f;stroke-width:1.83810353" />
+    <rect
+       class="cls-5"
+       x="402.36368"
+       y="-270.34113"
+       width="51.111958"
+       height="155.39197"
+       id="rect17"
+       style="fill:#fff176;stroke-width:1.83810353" />
+    <ellipse
+       class="cls-5"
+       cx="452.40048"
+       cy="-231.43877"
+       rx="33.858471"
+       ry="49.276417"
+       id="ellipse19"
+       style="fill:#fff176;stroke-width:1.83810353" />
+    <path
+       class="cls-6"
+       d="m 398.81397,-287.88194 a 74.80777,86.783119 0 1 1 149.61554,0"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="fill:#f4511e;stroke-width:1.83810353" />
+    <path
+       class="cls-7"
+       d="m 474.2617,-374.65516 a 74.25313,86.139693 0 0 1 74.16781,86.77322 H 474.2617 Z"
+       id="path23"
+       inkscape:connector-curvature="0"
+       style="fill:#e64a19;stroke-width:1.83810353" />
+    <rect
+       class="cls-6"
+       x="384.34222"
+       y="-290.67343"
+       width="178.57613"
+       height="22.391174"
+       rx="9.6592207"
+       ry="11.205485"
+       id="rect25"
+       style="fill:#f4511e;stroke-width:1.83810353" />
+    <polygon
+       class="cls-8"
+       points="405.23,173.5 490.07,173.5 501,404 393,416 "
+       id="polygon27"
+       style="fill:#c5cae9"
+       transform="matrix(1.7065762,0,0,1.9797677,-289.1069,-459.48817)" />
+    <line
+       class="cls-9"
+       x1="549.23163"
+       y1="-78.917511"
+       x2="554.79504"
+       y2="48.124149"
+       id="line29"
+       style="fill:#ff7043;stroke-width:1.83810353" />
+    <polygon
+       class="cls-9"
+       points="398.63,301.09 494.5,256.4 491.24,192.23 402.05,233.8 "
+       id="polygon31"
+       style="fill:#ff7043"
+       transform="matrix(1.7065762,0,0,1.9797677,-289.1069,-459.48817)" />
+    <line
+       class="cls-9"
+       x1="560.29022"
+       y1="173.32477"
+       x2="565.87073"
+       y2="300.38611"
+       id="line33"
+       style="fill:#ff7043;stroke-width:1.83810353" />
+    <polygon
+       class="cls-9"
+       points="391.83,434.7 500.99,383.82 497.72,319.64 395.25,367.4 "
+       id="polygon35"
+       style="fill:#ff7043"
+       transform="matrix(1.7065762,0,0,1.9797677,-289.1069,-459.48817)" />
+    <rect
+       class="cls-7"
+       x="380.19525"
+       y="-186.51784"
+       width="186.85303"
+       height="70.915276"
+       id="rect39"
+       style="fill:#e64a19;stroke-width:1.83810353" />
+    <rect
+       class="cls-6"
+       x="380.19525"
+       y="-186.51784"
+       width="122.49804"
+       height="70.915276"
+       id="rect41"
+       style="fill:#f4511e;stroke-width:1.83810353" />
+    <path
+       class="cls-2"
+       d="m 472.33327,-186.51784 c 0,25.73698 -20.64957,46.52454 -46.07755,46.52454 -25.42799,0 -46.07756,-20.82715 -46.07756,-46.52454"
+       id="path43"
+       inkscape:connector-curvature="0"
+       style="opacity:0.5;fill:#ffe082;stroke-width:1.83810353" />
+    <path
+       style="display:inline;fill:#2979ff;stroke-width:1.83810353"
+       class="cls-3"
+       d="m 611.7815,-255.36623 a 33.431828,38.783649 0 0 1 14.19871,3.64278 58.859813,68.282188 0 0 1 113.82863,-17.81791 h 0.20479 a 39.677897,46.029599 0 0 1 0,92.05919 H 611.7815 a 33.568354,38.942031 0 1 1 0,-77.88406 z"
+       id="path71"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#448aff;stroke-width:1.83810353"
+       class="cls-13"
+       d="m 224.7337,160.91377 a 28.329165,32.864144 0 0 1 11.94603,3.08844 49.883222,57.86861 0 0 1 96.47276,-15.10563 h 0.17065 a 33.636617,39.021221 0 1 1 0,78.02265 H 224.7337 a 28.448627,33.00273 0 1 1 0,-66.00546 z"
+       id="path77"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#00c853;stroke-width:1.83810353"
+       class="cls-14"
+       d="m 299.49124,438.79183 c 89.28806,0 94.98483,-0.73098 184.25583,-0.73098 89.27101,0 83.5913,0.73098 172.8623,0.73098 75.80612,0 142.32603,-6.6488 143.62546,-63.03581 -77.01779,-48.82107 -192.04102,-79.84403 -320.56328,-79.84403 -129.06836,0 -244.51824,31.26054 -321.53602,80.45776 3.22004,60.87778 66.5906,62.42208 141.35571,62.42208 z"
+       id="path79"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscscs" />
+    <rect
+       id="rect40"
+       width="21.259842"
+       height="194.8819"
+       x="409.20105"
+       y="32.168915"
+       style="stroke-width:0.9375" />
+    <rect
+       id="rect42"
+       width="748.17596"
+       height="5.6967716"
+       x="109.17107"
+       y="-480.54053"
+       style="stroke-width:0.9375" />
+    <rect
+       id="rect44"
+       width="1.898924"
+       height="60.9375"
+       x="242.09575"
+       y="-600.17273"
+       style="stroke-width:0.9375" />
+    <rect
+       id="rect44-4"
+       width="1.898924"
+       height="60.9375"
+       x="700.68585"
+       y="-600.25873"
+       style="display:inline;stroke-width:0.9375" />
+    <rect
+       id="rect44-0"
+       width="1.898924"
+       height="60.9375"
+       x="242.09575"
+       y="392.6398"
+       style="display:inline;stroke-width:0.9375" />
+    <rect
+       id="rect44-4-7"
+       width="1.898924"
+       height="60.9375"
+       x="700.68585"
+       y="392.55377"
+       style="display:inline;stroke-width:0.9375" />
+  </g>
+</svg>
