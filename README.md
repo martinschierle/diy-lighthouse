@@ -16,6 +16,7 @@ This is a small overview on how to build a little Lighthouse object with a Raspb
 ** Easier:
 *** Open hotspot on phone
 *** Create wpa_supplicant.conf with wifi password and copy to sd card root (see [here](https://www.raspberrypi-spy.co.uk/2017/04/manually-setting-up-pi-wifi-using-wpa_supplicant-conf/))
+*** Create an empty file called ssh (no extension) and copy it to sd card root (to enable ssh, see [here](https://www.raspberrypi.org/forums/viewtopic.php?t=167326))
 *** Boot up zero, it should connect to wifi automatically
 *** SSH in via e.g. Putty, using the default hostname/user/password (raspberrypi/pi/raspberry)
 * Do settings as you see need via [raspi-config](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)
