@@ -27,6 +27,8 @@ This is a small overview on how to build a little Lighthouse object with a Raspb
 * Copy lighthouse.py from this repository to the home dir (e.g. via copy&paste)
 * Run once to make sure it works
     * Adapt test_url to your needs
+    * Script starts with a quick moving rainbow to signal succesful start
+    * On the first run it will afterwards signal the IP via the leds. Numbers from 0 to 8 are blue leds, a line of red leds means the dot, a 9 is 7 blue dots plus a green one. So '192.168.1.1" would be 1 blue, 7blue+1green,2 blue, all red, 1 blue, 6 blue, 8 blue, all red, 1 blue, all red, 1 blue
 * Add lighthouse.px to autostart as described [here](https://stackoverflow.com/questions/24875955/autostart-on-raspberry-pi)
 
 # For events/hackathons
