@@ -33,10 +33,13 @@ This is a small overview on how to build a little Lighthouse object with a Raspb
     * Basically add 'python /home/pi/lighthouse.py' to /etc/rc.local
 * Build it up
     * Print the frontcover.svg file from this repo to A4 paper
+    * Cut out the black bar in the middle
     * Do the two cuts on the upper and the two cuts on the lower end
     * Cut off the upper line of paper
     * Bend the line of paper and insert it into the two bottom cuts as a foot to the lighthouse
     * Also bend the left and right border of the paper as well to get more stability
+    * Attach blinkt led bar to raspbery zero through the cutout in the middle, connect power
+    * You're done!
 
 # For events/hackathons
 If you need many of these for events, you have two options:
