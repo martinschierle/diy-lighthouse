@@ -21,7 +21,7 @@ This is a small overview on how to build a little Lighthouse object with a Raspb
         * SSH in via e.g. Putty, using the default hostname/user/password (raspberrypi/pi/raspberry)
 * Do settings as you see need via [raspi-config](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)
     * You might wanna change username, password, hostname, language/locale
-* Install BLinkt library (see [here](https://github.com/pimoroni/blinkt))
+* Install Blinkt library (see [here](https://github.com/pimoroni/blinkt))
     * Basicall just run: 
     * curl https://get.pimoroni.com/blinkt | bash
 * Copy lighthouse.py from this repository to the home dir (e.g. via copy&paste)
@@ -30,6 +30,13 @@ This is a small overview on how to build a little Lighthouse object with a Raspb
     * Script starts with a quick moving rainbow to signal succesful start
     * On the first run it will afterwards signal the IP via the leds. Numbers from 0 to 8 are blue leds, a line of red leds means the dot, a 9 is 7 blue dots plus a green one. So '192.168.1.1" would be 1 blue, 7blue+1green,2 blue, all red, 1 blue, 6 blue, 8 blue, all red, 1 blue, all red, 1 blue
 * Add lighthouse.px to autostart as described [here](https://stackoverflow.com/questions/24875955/autostart-on-raspberry-pi)
+    * Basically add 'python /home/pi/lighthouse.py' to /etc/rc.local
+* Build it up
+    * Print the frontcover.svg file from this repo to A4 paper
+    * Do the two cuts on the upper and the two cuts on the lower end
+    * Cut off the upper line of paper
+    * Bend the line of paper and insert it into the two bottom cuts as a foot to the lighthouse
+    * Also bend the left and right border of the paper as well to get more stability
 
 # For events/hackathons
 If you need many of these for events, you have two options:
