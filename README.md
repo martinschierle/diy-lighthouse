@@ -2,6 +2,8 @@
 
 This is a small overview on how to build a little Lighthouse object with a RaspberryPi Zero, which will show Lighthouse scores for a given website via a set of LEDs
 
+![Finished built](https://raw.githubusercontent.com/martinschierle/diy-lighthouse/master/lighthouse_built1.jpg)
+
 # Partlist
 * RaspberryPi Zero with Male headers (e.g. [here](https://shop.pimoroni.com/products/raspberry-pi-zero-wh-with-pre-soldered-header))
 * Blink LED line ([here](https://shop.pimoroni.com/products/blinkt))
@@ -33,7 +35,7 @@ This is a small overview on how to build a little Lighthouse object with a Raspb
     * Basically add 'python /home/pi/lighthouse.py' to /etc/rc.local
 * Build it up
     * Print the frontcover.svg file from this repo to A4 paper
-    * Cut out the black bar in the middle
+    * Cut out the black bar in the middle (and label the space besides it with whatever metrics you end up displaying like 'FCP')
     * Do the two cuts on the upper and the two cuts on the lower end
     * Cut off the upper line of paper
     * Bend the line of paper and insert it into the two bottom cuts as a foot to the lighthouse
